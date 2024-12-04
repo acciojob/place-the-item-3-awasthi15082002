@@ -3,6 +3,5 @@
 /* Holder styles */
 .holder {
   display: flex;            /* Enable Flexbox */
-  justify-content: space-between; /* Evenly space items in the row */
-  flex-wrap: wrap;          /* Allow items to wrap onto the next line if there are too many */
+  justify-content: space-between; /* Evenly space items in the row */       /* Allow items to wrap onto the next line if there are too many */
 }
